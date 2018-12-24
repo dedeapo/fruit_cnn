@@ -9,7 +9,7 @@ import scipy.io
 import scipy.misc
 from matplotlib.pyplot import imshow
 
-
+#asfhjkhkj
 cwd = '/anaconda3/category/fruit/'
 classes = ['Apple', 'Avocado', 'Banana','Cantaloupe','Cherry 1', 'Lemon','Mulberry','Pear','Strawberry','Tomato 3'] # 人为设定2类
 #writer = tf.python_io.TFRecordWriter("category_train.tfrecords")  # 要生成的文件
